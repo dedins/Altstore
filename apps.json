@@ -24,7 +24,7 @@
       "beta": false,
       "bundleIdentifier": "com.dedins.instagram",
       "developerName": "dedins",
-      "downloadURL": "https://github.com/dedins/Altstore/releases/download/Instagram_v263.0/instagram.ipa",
+      "downloadURL": "https://github.com/dedins/Altstore/releases/download/Instagram_v263.1/instagram.ipa",
       "iconURL": "https://raw.githubusercontent.com/dedins/Altstore/main/images/instagram_icon.png",
       "localizedDescription": "",
       "name": "Instagram",
@@ -36,7 +36,7 @@
       "size": 111886527,
       "subtitle": "Stable version, tweaked and tested",
       "tintColor": "e85567",
-      "version": "263.0",
+      "version": "263.1",
       "versionDate": "2022-11-06T16:00:00-01:00",
       "versionDescription": "Stable version, tweaked and tested"
     },
