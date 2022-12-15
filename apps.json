@@ -1,0 +1,88 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.dedins.youtube",
+      "developerName": "dedins",
+      "iconURL": "https://raw.githubusercontent.com/dedins/Altstore/main/images/youtube_icon.png",
+      "downloadURL": "https://github.com/dedins/Altstore/releases/download/YouTube_v17.48.2/youtube.ipa",
+      "localizedDescription": "",
+      "name": "YouTube",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/youtube_1.webp",
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/youtube_2.webp",
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/youtube_3.webp"
+      ],
+      "size": 101187584,
+      "subtitle": "Stable version, tweaked and tested",
+      "tintColor": "e22a41",
+      "version": "17.48.2",
+      "versionDate": "2022-11-06T16:00:00-01:00",
+      "versionDescription": "Stable version, tweaked and tested"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.dedins.instagram",
+      "developerName": "dedins",
+      "downloadURL": "https://github.com/dedins/Altstore/releases/download/Instagram_v261.0/instagram.ipa",
+      "iconURL": "https://raw.githubusercontent.com/dedins/Altstore/main/images/instagram_icon.png",
+      "localizedDescription": "",
+      "name": "Instagram",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/instagram_1.webp",
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/instagram_2.webp",
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/instagram_3.webp"
+      ],
+      "size": 111886527,
+      "subtitle": "Stable version, tweaked and tested",
+      "tintColor": "e85567",
+      "version": "261.0",
+      "versionDate": "2022-11-06T16:00:00-01:00",
+      "versionDescription": "Stable version, tweaked and tested"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.dedins.youtube.beta",
+      "developerName": "dedins",
+      "iconURL": "https://raw.githubusercontent.com/dedins/Altstore/main/images/youtube_icon.png",
+      "downloadURL": "https://github.com/dedins/Altstore/releases/download/YouTube_v17.49.4/youtube.ipa",
+      "localizedDescription": "",
+      "name": "YouTube (Beta)",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/youtube_1.webp",
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/youtube_2.webp",
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/youtube_3.webp"
+      ],
+      "size": 101187584,
+      "subtitle": "Latest version auto-tweaked",
+      "tintColor": "e22a41",
+      "version": "17.49.4",
+      "versionDate": "2022-11-06T16:00:00-01:00",
+      "versionDescription": "Latest version auto-tweaked"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.dedins.instagram.beta",
+      "developerName": "dedins",
+      "downloadURL": "https://github.com/dedins/Altstore/releases/download/Instagram_v263.1/instagram.ipa",
+      "iconURL": "https://raw.githubusercontent.com/dedins/Altstore/main/images/instagram_icon.png",
+      "localizedDescription": "",
+      "name": "Instagram (Beta)",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/instagram_1.webp",
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/instagram_2.webp",
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/instagram_3.webp"
+      ],
+      "size": 111886527,
+      "subtitle": "Latest version auto-tweaked",
+      "tintColor": "e85567",
+      "version": "263.1",
+      "versionDate": "2022-11-06T16:00:00-01:00",
+      "versionDescription": "Latest version auto-tweaked"
+    }
+  ],
+  "identifier": "com.dedins.altstorerepo",
+  "name": "My AltStore Repo",
+  "news": [],
+  "userInfo": {}
+}
