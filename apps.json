@@ -79,7 +79,44 @@
       "version": "263.1",
       "versionDate": "2022-11-06T16:00:00-01:00",
       "versionDescription": "Latest version auto-tweaked"
-    }
+    },
+   {
+      "name": "SideStore",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "developerName": "SideStore Team",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "date": "2022-011-22T12:00:00-05:00",
+          "localizedDescription": "Welcome to the next generation of sideloading! This update fixes and adds the following:\n\n - Officially adds ability to pair via a mobiledevicepairing and a plist file.\n\n - Changes patreon page. fixes GroupID staging issues.\n\n - Fixes refreshing SideStore creating a second app or fails refreshing.",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.1.1/SideStore.ipa",
+          "size": 5465976
+        }
+      ],
+      "version": "0.1.1",
+      "versionDate": "2022-011-22T12:00:00-05:00",
+      "versionDescription": "Welcome to the next generation of sideloading! This update fixes and adds the following:\n\n - Officially adds ability to pair via a mobiledevicepairing and a plist file.\n\n - Changes patreon page. fixes GroupID staging issues.\n\n - Fixes refreshing SideStore creating a second app or fails refreshing.",
+      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.1.1/SideStore.ipa",
+      "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
+      "iconURL": "https://raw.githubusercontent.com/SideStore/apps.json/main/105070799.jpeg",
+      "tintColor": "8043FF",
+      "size": 5465976,
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "permissions": [
+        {
+          "type": "background-fetch",
+          "usageDescription": "SideStore periodically refreshes apps in the background to prevent them from expiring."
+        },
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows SideStore to run longer than 30 seconds when refreshing apps in background."
+        }
+      ]
+    }    
   ],
   "identifier": "com.dedins.altstorerepo",
   "name": "My AltStore Repo",
