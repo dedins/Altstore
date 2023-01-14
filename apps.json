@@ -80,6 +80,46 @@
       "versionDate": "2022-11-06T16:00:00-01:00",
       "versionDescription": "Latest version auto-tweaked"
     },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.dedins.uyou",
+      "developerName": "dedins",
+      "downloadURL": "https://github.com/dedins/Altstore/releases/download/YouTube_uYouPlus_18.02.1/youtube.ipa",
+      "iconURL": "https://raw.githubusercontent.com/dedins/Altstore/main/images/youtube_icon.png",
+      "localizedDescription": "",
+      "name": "uYou",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/youtube_1.webp",
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/youtube_2.webp",
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/youtube_3.webp"
+      ],
+      "size": 111886527,
+      "subtitle": "uYou",
+      "tintColor": "e85567",
+      "version": "18.02.1",
+      "versionDate": "2022-11-06T16:00:00-01:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.dedins.ytkiller",
+      "developerName": "dedins",
+      "downloadURL": "https://github.com/dedins/Altstore/releases/download/YouTube_v18.01.2_Killer/youtube.ipa",
+      "iconURL": "https://raw.githubusercontent.com/dedins/Altstore/main/images/youtube_icon.png",
+      "localizedDescription": "",
+      "name": "YTKiller",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/youtube_1.webp",
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/youtube_2.webp",
+        "https://raw.githubusercontent.com/dedins/Altstore/main/images/youtube_3.webp"
+      ],
+      "size": 111886527,
+      "subtitle": "YTKiller",
+      "tintColor": "e85567",
+      "version": "18.01.2",
+      "versionDate": "2022-11-06T16:00:00-01:00",
+      "versionDescription": ""
+    },    
    {
       "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
